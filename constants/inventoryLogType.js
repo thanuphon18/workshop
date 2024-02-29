@@ -1,0 +1,6 @@
+const INVENTORY_LOF_TYPE = {
+  RECEIVE: "RECEIVE",
+  WITHDRAW: "WITHDRAW",
+};
+
+export default INVENTORY_LOF_TYPE;

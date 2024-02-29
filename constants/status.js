@@ -1,0 +1,11 @@
+const STATUS = {
+  PENDING: 1,
+  RECEIVE: 2,
+  REJECTED: 3,
+  PROCESS: 4,
+  COMPLETED: 5,
+  REPORTED: 6,
+  APPROVED: 7,
+}
+
+export default STATUS
